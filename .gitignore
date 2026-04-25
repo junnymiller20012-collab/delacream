@@ -1,6 +1,7 @@
 .env
 .tmp/
 .claude/
+.agents/
 credentials.json
 token.json
 node_modules/
